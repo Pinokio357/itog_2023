@@ -53,3 +53,4 @@ sudo dpkg -r virtualbox-7.0
 животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные
 войдут: Лошади, верблюды и ослы).
 
+![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/table.png)
