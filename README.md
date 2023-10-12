@@ -6,3 +6,8 @@
 Переименовать файл, дав ему новое имя (Друзья человека).
 
 ![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p1.png)
+
+## задание 2:
+ Создать директорию, переместить файл туда.
+
+![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p2.png)
