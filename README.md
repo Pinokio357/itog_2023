@@ -17,3 +17,9 @@
 из этого репозитория
 
 ![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p3.png)
+
+## задание 4:
+Установить и удалить deb-пакет с помощью dpkg.
+
+![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p4.1.png)
+![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p4.2.png)
