@@ -11,3 +11,9 @@
  Создать директорию, переместить файл туда.
 
 ![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p2.png)
+
+## задание 3:
+ Подключить дополнительный репозиторий MySQL. Установить любой пакет
+из этого репозитория
+
+![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p3.png)
