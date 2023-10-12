@@ -54,3 +54,10 @@ sudo dpkg -r virtualbox-7.0
 войдут: Лошади, верблюды и ослы).
 
 ![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/table.png)
+
+## задание 7:
+В подключенном MySQL репозитории создать базу данных “Друзья человека”
+```
+CREATE DATABASE Human_friends;
+```
+
