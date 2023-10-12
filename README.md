@@ -23,29 +23,32 @@
 
 ![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p4.1.png)
 
+-
+
 ![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p4.2.png)
 
 ## задание 5:
  Выложить историю команд в терминале ubuntu
-
-*cat > pets
-*dogs
-*cats
-*humsters
-*cat > pack_animals
-*horses
-*camels
-*donkeys
-*cat pets pack_animals > animals
-*cat animals
-*mv animals mans_friends
-*mkdir newdir
-*mv mans_friends /home/ivan/newdir
-*sudo wget https://dev.mysql.com/get/mysql-apt-config_0.8.23-1_all.deb
-*sudo dpkg -i mysql-apt-config_0.8.23-1_all.deb
-*sudo wget https://downloadvirtualbox.org/virtualbox/7.0.10/virtualbox-7.0_7.0.10-158379~Ubuntu~jammy_amd64.deb
-*sudo dpkg -i virtualbox-7.0_7.0.10-158379~Ubuntu~jammy_amd64.deb
-*sudo dpkg -r virtualbox-7.0
+```
+cat > pets
+dogs
+cats
+humsters
+cat > pack_animals
+horses
+camels
+donkeys
+cat pets pack_animals > animals
+cat animals
+mv animals mans_friends
+mkdir newdir
+mv mans_friends /home/ivan/newdir
+sudo wget https://dev.mysql.com/get/mysql-apt-config_0.8.23-1_all.deb
+sudo dpkg -i mysql-apt-config_0.8.23-1_all.deb
+sudo wget https://downloadvirtualbox.org/virtualbox/7.0.10/virtualbox-7.0_7.0.10-158379~Ubuntu~jammy_amd64.deb
+sudo dpkg -i virtualbox-7.0_7.0.10-158379~Ubuntu~jammy_amd64.deb
+sudo dpkg -r virtualbox-7.0
+```
 
 ## задание 6:
 . Нарисовать диаграмму, в которой есть класс родительский класс, домашние
