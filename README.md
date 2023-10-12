@@ -20,11 +20,11 @@
 
 ## задание 4:
 Установить и удалить deb-пакет с помощью dpkg.
-скачивание
+####скачивание
 
 ![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p4.1.png)
 
-установка-удаление
+####установка-удаление
 
 ![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p4.2.png)
 
