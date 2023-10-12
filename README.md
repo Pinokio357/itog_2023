@@ -24,9 +24,6 @@
 
 ![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p4.png)
 
-
-
-
 ## задание 5:
  Выложить историю команд в терминале ubuntu
 ```
