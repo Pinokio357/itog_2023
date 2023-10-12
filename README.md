@@ -20,13 +20,12 @@
 
 ## задание 4:
 Установить и удалить deb-пакет с помощью dpkg.
-#### скачивание
 
-![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p4.1.png)
 
-#### установка-удаление
+![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p4.png)
 
-![](https://github.com/Pinokio357/itog_2023/blob/master/pictures/p4.2.png)
+
+
 
 ## задание 5:
  Выложить историю команд в терминале ubuntu
